@@ -11,7 +11,7 @@ possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click
     userChoiceDisplay.innerHTML = userChoice
     generateComputerChoice()
     getResult()
-})) 
+}))  
 
 function generateComputerChoice() {
     const randomNumber = Math.floor(Math.random() * possibleChoices.length)
