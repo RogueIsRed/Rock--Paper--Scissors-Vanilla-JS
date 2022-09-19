@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-right: 100px;
+    padding: 50px;
+    font-family: 'Nabla', cursive;
+    font-size: 40px;
+}
+
+.h2Style {
+    margin-left: 50px;
+    font-family: 'Bungee Spice', cursive;
+}
+
+.buttonSpace {
+    margin-right: 33%;
+}
+
+#buttonContainer {
+    margin-left: 5%;
+}
